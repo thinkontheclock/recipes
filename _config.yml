@@ -1,3 +1,54 @@
-theme: jekyll-theme-minimal
+name: Think on the Clock
+description: Front-end development, and everything that goes along with it.
+avatar: /images/bbd.png
+
+footer-links:
+  dribbble:
+  email: matt@thinkontheclock.com
+  facebook:
+  flickr:
+  github:
+  instagram: thinkontheclock
+  linkedin:
+  pinterest:
+  rss:
+  twitter: thinkontheclock
+  stackoverflow:
+  youtube:
+  googleplus:
+disqus:
+
+google_analytics: UA-7526399-2
+url:
+baseurl: ""
+
+permalink: /:title/
+
+highlighter: null
+
+version: v1.2.0
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
 plugins:
-  - jekyll-menus
+  - jekyll-sitemap
+  - jekyll-watch
+  - jekyll-feed
+  - autoprefixer-rails
+  - octopress-autoprefixer
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+plugins_dir: _plugins
