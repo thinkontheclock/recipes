@@ -1,0 +1,13 @@
+---
+label: Recipe
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  default: Recipe Title
+- type: textarea
+  label: Recipe
+  name: recipe
+  default: Recipe Body
