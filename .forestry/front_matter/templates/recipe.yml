@@ -11,3 +11,5 @@ fields:
   label: Recipe
   name: recipe
   default: Recipe Body
+pages:
+- _posts/grape-cauliflower-curry-salad.md
