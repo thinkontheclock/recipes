@@ -15,7 +15,7 @@ date: 2018-11-28 20:13:35 +0000
 
 * 4 1/2 Tbsp [_green curry paste_](https://minimalistbaker.com/easy-green-curry-paste/) (or store-bought, though fresh is best)
 * 2 Tbsp [_tahini_](https://minimalistbaker.com/product/tahini/)
-* 2 Tbsp lemon juice
+* 2 Tbsp lemon [juice](https://google.com)
 * 1 Tbsp maple syrup
 * 1 Pinch each salt and black pepper
 * Water to thin
