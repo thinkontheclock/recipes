@@ -38,11 +38,7 @@ sass:
   style: :expanded
 
 plugins:
-  - jekyll-sitemap
-  - jekyll-watch
-  - jekyll-feed
-  - autoprefixer-rails
-  - octopress-autoprefixer
+  - jekyll-menus
 
 exclude:
   - Gemfile
