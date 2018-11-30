@@ -12,4 +12,5 @@ fields:
   name: recipe
   default: Recipe Body
 pages:
+- _posts/berry-smoothie.md
 - _posts/2018-11-28-grape-cauliflower-curry-salad.md
