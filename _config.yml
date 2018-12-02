@@ -20,7 +20,7 @@ disqus:
 
 google_analytics: UA-7526399-2
 url:
-baseurl: ""
+baseurl: "/recipes/"
 
 permalink: /:title/
 

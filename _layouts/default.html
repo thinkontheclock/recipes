@@ -28,6 +28,13 @@
         <section class="content">
             {{ content }}
         </section>
+        <aside>
+          {% for post in site.posts %}
+            <article class="post excerpt">
+
+              <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+            </article>
+          {% endfor %}
         </aside>
     </section>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
