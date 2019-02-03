@@ -17,19 +17,19 @@ recipe: |-
 
   ---
 
-  Heat the oil in a pot over medium heat.
+  Heat the oil in a pot over medium heat
 
-  Add onion and cook for 3-5 minutes, or until translucent.
+  Add onion and cook for 3-5 minutes, or until translucent
 
-  Add garlic and cook for 3 more minutes.
+  Add garlic and cook for 3 more minutes
 
-  Add stock, sweet potatoes, chickpeas, rice and salt; bring to a boil, reduce heat, cover, and sidmmer for 45 minutes or until the rice is cooked.
+  Add stock, sweet potatoes, chickpeas, rice and salt; bring to a boil, reduce heat, cover, and sidmmer for 45 minutes or until the rice is cooked
 
-  In a small bowl, blend peanut butter with enough liquid from the stew to make a smooth paste.
+  In a small bowl, blend peanut butter with enough liquid from the stew to make a smooth paste
 
-  Stir the paste into the stew along with kale, lemon juice, pepper, tamari, and chilli pepper sauce to taste and cook for another 5 minutes.
+  Stir the paste into the stew along with kale, lemon juice, pepper, tamari, and chilli pepper sauce to taste and cook for another 5 minutes
 
-  Adjust seasoning to taste, and serve.
+  Adjust seasoning to taste, and serve
 date: 2019-02-03 13:39:03 -0400
 
 ---
