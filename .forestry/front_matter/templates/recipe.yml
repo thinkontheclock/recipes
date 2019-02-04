@@ -11,6 +11,10 @@ fields:
   label: Recipe
   name: recipe
   default: Recipe Body
+- type: tag_list
+  name: tags
+  label: Tags
+  default: []
 pages:
 - _posts/2018-11-28-grape-cauliflower-curry-salad.md
 - _posts/2019-02-03-african-chickpea-stew.md
