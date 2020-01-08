@@ -1,7 +1,6 @@
 ---
 label: Recipe
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -17,5 +16,5 @@ fields:
   default: []
 pages:
 - _posts/2018-11-28-grape-cauliflower-curry-salad.md
-- _posts/2019-02-03-african-chickpea-stew.md
 - _posts/2018-11-29-berry-smoothie.md
+- _posts/2019-02-03-african-chickpea-stew.md
