@@ -2,7 +2,11 @@
 title: Grape Cauliflower Curry Salad
 recipe: Recipe
 date: '2018-11-28T20:13:35.000+00:00'
-tags: []
+tags:
+- cauliflower
+- salad
+- curry
+- grape
 
 ---
 # Ingredients
