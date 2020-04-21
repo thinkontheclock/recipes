@@ -1,6 +1,6 @@
 ---
 title: Mexican Rice
-recipe: ''
+recipe: Recipe
 tags: []
 
 ---
