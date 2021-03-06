@@ -14,14 +14,14 @@ tags:
 #### Cauliflower
 
 * 1 head cauliflower (divided into florets)
-* 1 1/2 Tbsp [_melted coconut oil_](https://minimalistbaker.com/product/coconut-oil/) (or water)
-* 1 1/2 Tbsp [_curry powder_](https://minimalistbaker.com/diy-curry-powder/) (or store-bought)
+* 1 1/2 Tbsp melted coconut oil (or water)
+* 1 1/2 Tbsp curry powder
 * 1/4 tsp sea salt
 
 #### Dressing
 
-* 4 1/2 Tbsp [_green curry paste_](https://minimalistbaker.com/easy-green-curry-paste/) (or store-bought, though fresh is best)
-* 2 Tbsp [_tahini_](https://minimalistbaker.com/product/tahini/)
+* 4 1/2 Tbsp green curry paste
+* 2 Tbsp tahini
 * 2 Tbsp lemon juice
 * 1 Tbsp maple syrup
 * 1 Pinch each salt and black pepper

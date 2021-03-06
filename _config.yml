@@ -35,6 +35,7 @@ kramdown:
     css_class: 'highlight'
 
 sass:
+  sass_dir: _sass
   style: :expanded
 
 plugins:

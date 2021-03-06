@@ -4,4 +4,8 @@ $font__sans-serif: 'Roboto Slab', serif;
 
 html, body {
   font-family: $font__sans-serif;
+  background-color: purple;
+}
+* {
+  color: purple;
 }
