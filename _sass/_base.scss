@@ -10,7 +10,11 @@ $air-superiority-blue: rgba(100, 148, 170, 1);
 
 
 html, body {
-  font-family: $font__sans-serif;
   background-color: $eerie-black;
-  
+  color: $sweet-brown;
+  font-family: $font__sans-serif;
+}
+
+a {
+  color: $air-superiority-blue;
 }
