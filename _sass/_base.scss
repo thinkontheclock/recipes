@@ -6,15 +6,21 @@ $eerie-black: rgba(21, 21, 21, 1);
 $sweet-brown: rgba(166, 61, 64, 1);
 $gold-crayola: rgba(233, 184, 114, 1);
 $asparagus: rgba(144, 169, 89, 1);
+$light-grey: #DAD6D6;
 $air-superiority-blue: rgba(100, 148, 170, 1);
 
 
 html, body {
   background-color: $eerie-black;
-  color: $sweet-brown;
+  color: $light-grey;
   font-family: $font__sans-serif;
 }
 
 a {
-  color: $air-superiority-blue;
+  color: $gold-crayola;
+  text-decoration: none;
+
+  &:hover {
+    color: $asparagus;
+  }
 }
