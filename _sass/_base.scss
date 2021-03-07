@@ -38,4 +38,9 @@ ol,
 ul {
   display: grid;
   gap: 1em;
+
+  ul,
+  ol {
+    margin-top: 1em;
+  }
 }
