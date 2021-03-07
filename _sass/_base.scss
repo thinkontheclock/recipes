@@ -2,10 +2,15 @@
 
 $font__sans-serif: 'Roboto Slab', serif;
 
+$eerie-black: rgba(21, 21, 21, 1);
+$sweet-brown: rgba(166, 61, 64, 1);
+$gold-crayola: rgba(233, 184, 114, 1);
+$asparagus: rgba(144, 169, 89, 1);
+$air-superiority-blue: rgba(100, 148, 170, 1);
+
+
 html, body {
   font-family: $font__sans-serif;
-  background-color: purple;
-}
-* {
-  color: purple;
+  background-color: $eerie-black;
+  
 }
