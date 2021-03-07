@@ -24,3 +24,17 @@ a {
     color: $asparagus;
   }
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $sweet-brown;
+}
+
+ul {
+  display: grid;
+  gap: 1em;
+}
