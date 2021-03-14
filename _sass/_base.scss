@@ -2,26 +2,25 @@
 
 $font__sans-serif: 'Roboto Slab', serif;
 
-$eerie-black: rgba(21, 21, 21, 1);
-$sweet-brown: rgba(166, 61, 64, 1);
-$gold-crayola: rgba(233, 184, 114, 1);
-$asparagus: rgba(144, 169, 89, 1);
-$light-grey: #DAD6D6;
-$air-superiority-blue: rgba(100, 148, 170, 1);
+$black: #0b0c10;
+$gray--dark: #1f2833;
+$gray--light: #cfc6c7;
+$teal--dark: #45a29e;
+$teal--light: #66fcf1;
 
 
 html, body {
-  background-color: $eerie-black;
-  color: $light-grey;
+  background-color: $black;
+  color: $grey--light;
   font-family: $font__sans-serif;
 }
 
 a {
-  color: $gold-crayola;
+  color: $teal--dark;
   text-decoration: none;
 
   &:hover {
-    color: $asparagus;
+    color: $teal--light;
   }
 }
 
@@ -31,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $sweet-brown;
+  color: $teal--light;
 }
 
 ol,
