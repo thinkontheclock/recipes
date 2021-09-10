@@ -59,7 +59,7 @@ tags:
    4. Add rice and turmeric. Stir until combined. Add chicken broth and bay leaf, cover pan. Increase heat and bring to a boil.
    5. Reduce heat, allow to simmer 15-20 minutes, or until liquid is absorbed. Remove from heat and allow to sit for 5 minutes. Remove bay leaf, fluff with a fork and serve
 2. **To make the spiced ground lamb**
-   1. Heat a large saute pan over medium heat. Add olive oil.
+   1. Heat a large sauté pan over medium heat. Add olive oil.
    2. When oil is hot, add onions and garlic. Sauté for 5 minutes, until starting to soften.
    3. Add ground lamb. Brown lamb until cooked through.
    4. Add paprika, allspice, red pepper flakes, ginger, salt and pepper. Mix until fully combined, cook for 1-2 minutes. Remove from heat and stir in fresh herbs.
