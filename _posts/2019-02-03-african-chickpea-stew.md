@@ -1,6 +1,6 @@
 ---
 title: African Chickpea Stew
-recipe: 
+recipe: |-
   * 1 tbsp coconut oil
   * 1 onion, diced
   * 2 cloves garlic, minced
