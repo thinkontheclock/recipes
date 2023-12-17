@@ -45,8 +45,9 @@ date: 2019-02-03 13:39:03 -0400
 * 2 cups thinly sliced kale or collard leaves
 * 2 tbsp freshly squeezed lemon juice
 * 1/2 tsp black pepper
-* tamari
-* hot chilli pepper sauce
+* 1 tbsp tamari
+* 1/4 cup peanut butter
+* hot sauce to taste
 
 ---
 
