@@ -1,7 +1,7 @@
 ---
 title: Shrimp Cakes
 recipe: Recipe
-date: '2026-05-12T20:13:35.000+00:00'
+date: '2026-05-11T20:11:35.000+00:00'
 tags:
 - shrimp
 - seafood
